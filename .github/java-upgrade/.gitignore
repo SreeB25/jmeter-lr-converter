@@ -1,0 +1,22 @@
+# ==== Maven build output (never commit)
+target/
+dependency-reduced-pom.xml
+
+# ==== Logs
+*.log
+logs/
+
+# ==== IDE junk
+.idea/
+*.iml
+.settings/
+.project
+.classpath
+bin/
+out/
+.vscode/
+
+# ==== OS junk
+.DS_Store
+Thumbs.db
+desktop.ini
